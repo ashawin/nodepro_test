@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2"
   }
 }
